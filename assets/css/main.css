@@ -101,6 +101,17 @@ textarea {
 /* ##########################   SMARTPHONE   ########################### */
 /* ##################################################################### */
 /* Extra small devices (phones, less than 768px) */
+.compte{
+  display: inline-block;
+  width: 23%;
+  margin: 0.4%;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.sum{
+  width: 100px;
+}
 
 
 
